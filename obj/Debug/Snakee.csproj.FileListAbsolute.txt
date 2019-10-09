@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Snakee\Snakee\bin\Debug\Snakee.exe.config
+C:\Users\User\source\repos\Snakee\Snakee\bin\Debug\Snakee.exe
+C:\Users\User\source\repos\Snakee\Snakee\bin\Debug\Snakee.pdb
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.Properties.Resources.resources
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.exe
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.pdb
+C:\Users\User\source\repos\Snakee\Snakee\obj\Debug\Snakee.Form1.resources
